@@ -9,11 +9,11 @@
 
 ###
 
-<img align="left" height="160" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2dqMHE4b251bG5hd3Zyc2J5aTg4c3h0dXd4c2t3b21qcDJkZGw3cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ML15sUZFNyMy0Yv55m/giphy.gif"  />
+<img align="left" height="150" alt="Image" src="https://github.com/user-attachments/assets/52bb7c17-6c93-486b-9902-c2b4ecaf6043" />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -35,7 +35,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <a href="https://discord.com/users/607175421326524475" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
