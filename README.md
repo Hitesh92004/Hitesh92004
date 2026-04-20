@@ -1,7 +1,3 @@
-<h2 align="left">Hi 👋! My name is Hitesh, a Full Stack Web Dev</h2>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B!%20My%20name%20is%20Hitesh,%20a%20Full%20Stack%20Web%20Dev&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
